@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bushwick Open Studios 2013</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <color name="white">#FFFFFF</color>
+    <color name="light_gray">#DDDDDD</color>
+    <color name="gray_text">#505050</color>
+    <color name="header_color">#F7D3E9</color>
+    <string name="directions">Get directions</string>
+    <color name="start_color">#DF3279</color>
+    <color name="end_color">#E14224</color>
+    <color name="center_color">#E53536</color>
+
+</resources>
